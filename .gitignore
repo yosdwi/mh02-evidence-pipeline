@@ -1,0 +1,28 @@
+# secrets / runtime
+.env
+.env.*
+!.env.example
+**/appsettings.json
+**/appsettings.Development.json
+**/mh02.conf
+**/rclone.conf
+**/rclone-test.conf
+**/secrets/**
+**/credentials/**
+**/minio_config/**
+# generated and multimedia
+**/__pycache__/
+*.py[cod]
+*.exe
+*.dll
+*.pdb
+*.mp4
+*.zip
+*.jpg
+*.png
+**/bin/
+**/obj/
+**/test-data/
+**/.vs/
+**/.vscode/
+**/Properties/PublishProfiles/

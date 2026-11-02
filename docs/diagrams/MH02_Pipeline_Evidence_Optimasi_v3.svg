@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1840" height="555" viewBox="0 0 1840 555">
+<rect width="1840" height="555" fill="#FFFFFF"/>
+<defs><marker id="arr" viewBox="0 0 9 9" refX="7" refY="4.5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L9 4.5 L0 9" fill="#43617f"/></marker></defs>
+<text x="38" y="68" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="0" fill="#162339">Pipeline Evidence MH02</text>
+<text x="39" y="96" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" fill="#6C7888">KANDIDAT OPTIMASI</text>
+<rect x="36" y="112" width="855" height="353" rx="12" fill="#F7F9FC" stroke="#E0E6ED" stroke-width="1"/>
+<rect x="36" y="112" width="855" height="51" rx="12" fill="#EAF0F7" stroke="none" stroke-width="1"/>
+<rect x="36" y="148" width="855" height="14" rx="0" fill="#EAF0F7" stroke="none" stroke-width="1"/>
+<text x="463.5" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="0.7" fill="#162339">DEVICE</text>
+<rect x="901" y="112" width="174" height="353" rx="12" fill="#F7F9FC" stroke="#E0E6ED" stroke-width="1"/>
+<rect x="901" y="112" width="174" height="51" rx="12" fill="#EAF0F7" stroke="none" stroke-width="1"/>
+<rect x="901" y="148" width="174" height="14" rx="0" fill="#EAF0F7" stroke="none" stroke-width="1"/>
+<text x="988.0" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="0.7" fill="#162339">NETWORK</text>
+<rect x="1085" y="112" width="503" height="353" rx="12" fill="#F7F9FC" stroke="#E0E6ED" stroke-width="1"/>
+<rect x="1085" y="112" width="503" height="51" rx="12" fill="#EAF0F7" stroke="none" stroke-width="1"/>
+<rect x="1085" y="148" width="503" height="14" rx="0" fill="#EAF0F7" stroke="none" stroke-width="1"/>
+<text x="1336.5" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="0.7" fill="#162339">SERVER ON-PREMISE</text>
+<rect x="1598" y="112" width="194" height="353" rx="12" fill="#F7F9FC" stroke="#E0E6ED" stroke-width="1"/>
+<rect x="1598" y="112" width="194" height="51" rx="12" fill="#EAF0F7" stroke="none" stroke-width="1"/>
+<rect x="1598" y="148" width="194" height="14" rx="0" fill="#EAF0F7" stroke="none" stroke-width="1"/>
+<text x="1695.0" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="0.7" fill="#162339">SQL SERVER</text>
+<rect x="59" y="232" width="141" height="127" rx="10" fill="#FFFFFF" stroke="#C8D1DD" stroke-width="1.5"/>
+<rect x="73" y="249" width="5" height="32" rx="2" fill="#2261A7" stroke="none" stroke-width="1"/>
+<text x="87" y="274" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="0" fill="#162339">Trigger</text>
+<text x="87" y="306" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">Incident</text>
+<rect x="234" y="232" width="273" height="127" rx="10" fill="#FFFFFF" stroke="#C8D1DD" stroke-width="1.5"/>
+<rect x="248" y="249" width="5" height="32" rx="2" fill="#2261A7" stroke="none" stroke-width="1"/>
+<text x="262" y="274" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="0" fill="#162339">DeviationRecorder</text>
+<text x="262" y="306" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">FFmpeg H.264 sekali</text>
+<text x="262" y="331" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">MP4 final + metadata</text>
+<rect x="541" y="232" width="329" height="127" rx="10" fill="#FFFFFF" stroke="#C8D1DD" stroke-width="1.5"/>
+<rect x="555" y="249" width="5" height="32" rx="2" fill="#2261A7" stroke="none" stroke-width="1"/>
+<text x="569" y="274" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="0" fill="#162339">Outbox + Uploader</text>
+<text x="569" y="306" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">SQLite · Python S3 SDK</text>
+<text x="569" y="331" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">Retry + upload READY</text>
+<rect x="923" y="232" width="131" height="127" rx="10" fill="#FFFFFF" stroke="#C8D1DD" stroke-width="1.5"/>
+<rect x="937" y="249" width="5" height="32" rx="2" fill="#2261A7" stroke="none" stroke-width="1"/>
+<text x="951" y="274" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" fill="#162339">Network</text>
+<text x="951" y="306" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">S3/HTTPS</text>
+<text x="951" y="331" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">PUT object</text>
+<rect x="1104" y="232" width="154" height="127" rx="10" fill="#FFFFFF" stroke="#C8D1DD" stroke-width="1.5"/>
+<rect x="1118" y="249" width="5" height="32" rx="2" fill="#2261A7" stroke="none" stroke-width="1"/>
+<text x="1132" y="274" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="0" fill="#162339">MinIO</text>
+<text x="1132" y="306" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">Object</text>
+<text x="1132" y="331" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">storage</text>
+<rect x="1286" y="232" width="139" height="127" rx="10" fill="#FFFFFF" stroke="#C8D1DD" stroke-width="1.5"/>
+<rect x="1300" y="249" width="5" height="32" rx="2" fill="#2261A7" stroke="none" stroke-width="1"/>
+<text x="1314" y="274" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="0" fill="#162339">RabbitMQ</text>
+<text x="1314" y="306" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">READY</text>
+<text x="1314" y="331" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">event</text>
+<rect x="1451" y="232" width="124" height="127" rx="10" fill="#FFFFFF" stroke="#C8D1DD" stroke-width="1.5"/>
+<rect x="1465" y="249" width="5" height="32" rx="2" fill="#2261A7" stroke="none" stroke-width="1"/>
+<text x="1479" y="274" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="0" fill="#162339">.NET Worker</text>
+<text x="1479" y="306" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">Verify</text>
+<text x="1479" y="331" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">SP call</text>
+<rect x="1612" y="232" width="168" height="127" rx="10" fill="#FFFFFF" stroke="#C8D1DD" stroke-width="1.5"/>
+<rect x="1626" y="249" width="5" height="32" rx="2" fill="#1F6956" stroke="none" stroke-width="1"/>
+<text x="1640" y="274" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" fill="#162339">SQL Server</text>
+<text x="1640" y="306" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">Insert /</text>
+<text x="1640" y="331" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#4C5A6C">update SP</text>
+<path d="M203 296 L230 296" stroke="#43617f" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+<path d="M510 296 L537 296" stroke="#43617f" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+<path d="M873 296 L919 296" stroke="#43617f" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+<path d="M1057 296 L1101 296" stroke="#43617f" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+<path d="M1261 296 L1282 296" stroke="#43617f" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+<path d="M1428 296 L1448 296" stroke="#43617f" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+<path d="M1578 296 L1609 296" stroke="#43617f" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+<text x="235" y="416" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="0" fill="#2261A7">FINALIZED MP4</text>
+<text x="541" y="416" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="0" fill="#2261A7">SQLITE OUTBOX · RETRY</text>
+<text x="1106" y="416" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="0" fill="#2261A7">MANIFEST LAST</text>
+<text x="1451" y="416" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="0" fill="#2261A7">IDEMPOTENT</text>
+<path d="M36 483 L1792 483" stroke="#DFE5EC" stroke-width="1.5" fill="none" stroke-linecap="round" />
+<text x="38" y="514" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#4C5A6C">Upload MP4 + sidecars terlebih dahulu; READY manifest terakhir. Worker ACK setelah SQL commit; failure di-retry.</text>
+</svg>
